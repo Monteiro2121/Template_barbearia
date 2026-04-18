@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 
 const Endereco = () => {
   const position = { lat: -10.9392, lng: -37.0627 };
-  const API_KEY = "SUA_CHAVE_API_AQUI"; // Lembre-se de colocar sua chave real
+  const API_KEY = "AIzaSyB9YKhw1urVeMV_G2A6oXI70J4NTjlGw54";
 
   return (
     <div className="w-full h-screen bg-[#080808] relative overflow-hidden">
